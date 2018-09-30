@@ -12,7 +12,9 @@ class MainActivity : AppCompatActivity() {
 
     private fun lol() {
 
-        val lol = "lol"
+        val lol = "not lol"
+
+        val ano = false
 
     }
 
