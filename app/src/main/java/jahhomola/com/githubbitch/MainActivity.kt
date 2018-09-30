@@ -12,6 +12,8 @@ class MainActivity : AppCompatActivity() {
 
     private fun lol() {
 
+        val lol = "lol"
+
     }
 
 }
